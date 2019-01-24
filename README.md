@@ -1,1 +1,1 @@
-trash
+Folder for tests
